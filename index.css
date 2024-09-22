@@ -1,0 +1,50 @@
+h1{
+    background:linear-gradient(to left, blue ,yellow);
+    color: black;
+    text-overflow: 2px 2px 4px rgba(0,0,0, 0.5);
+}
+
+h1{
+   font-family: arial, helvetica, sans-serif;
+   font-size: 36px;
+   font-weight:bold;
+   text-align:center;
+   color: #ffff;
+   margin-top: 50px;
+   margin-bottom: 20px;
+}
+ body{
+   background-image:url("labirin.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+ }
+ 
+ table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #ffa5;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+.text {
+  color: #f9f9f9;
+  text-align: ;
+  font-weight: blod;
+}
